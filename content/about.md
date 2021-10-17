@@ -2,8 +2,9 @@
 title: "Hello there!"
 slug: about
 summary: This site is my work portfolio which I intend to update with the knowledge I gain from my continuous journey in the field of prgramming.
-description: This site is my work portfolio which I intend to update with the knowledge I gain from my continuous journey in the field of prgramming.
+description: 
 draft: false
+showtoc: false
 ---
 
 My name is Sagar Kapoor and I made this site with <a href = https://gohugo.io/ style = "color : DeepPink ;" target = "_blank"><strong>Hugo</strong></a>. I am a Master's student at the University of Sheffield and interning at a Digital Marketing firm. My undergraduate was in Economics. The changing economic landscape prompted me to pay attention to the wonderful world of programming, the fruits of which I had the advantage to taste when I used my Python lessons to gain insights into product prices for an online store that I was working for. Data analysis was never so easy! From that point on, I have been branching out into other languages and features that I come across.  

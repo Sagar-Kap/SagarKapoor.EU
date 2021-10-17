@@ -4,7 +4,7 @@ date: 2021-08-04T11:05:09+03:00
 slug: how-to-scrape-with-python
 category: ["python"]
 summary: А brief guide to scrape a site using Python. You can use this post to get started with Python and develop it further for your personal use. Yes, we will use the programming language and not the green, cute and cold killer that you see in the thumbnail.
-description: А brief guide to scrape a site using Python. You can use this post to get started with Python and develop it further for your personal use. Yes, we will use the programming language and not the green, cute and cold killer that you see in the thumbnail.
+description: 
 cover:
   image: "/img/how-to-scrape/green-python.webp"
   alt: "A green vicious-looking Python"
