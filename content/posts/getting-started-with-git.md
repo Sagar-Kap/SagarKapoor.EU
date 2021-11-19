@@ -4,7 +4,7 @@ date: 2021-09-30T11:05:09+03:00
 slug: getting-started-with-git
 category: 
 summary: Understanding Git and getting started with the basic commands on Git-Bash. This is a short introduction to Git, which you would have heard of on various forums if you are a beginner in coding and have been actively consuming lots of tutorials.
-description:
+description: If you are learning programming then you must have already heard of GitHub and Git many times. If you are a seasoned programmer then this post is not for you, there are other posts that you can check out!
 
 cover:
   image: "/img/getting-started-with-git/git.gif"

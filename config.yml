@@ -8,6 +8,8 @@ markup:
     renderer:
       unsafe: true
 
+permalinks:
+  posts: '/:slug'
 
 enableRobotsTXT: true
 buildDrafts: false
