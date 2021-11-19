@@ -43,6 +43,9 @@ params:
     showtoc: true
     tocopen: false
 
+    permalinks:
+        posts: '/:slug'
+
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true

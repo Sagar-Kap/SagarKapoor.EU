@@ -7,8 +7,8 @@ summary: Understanding Git and getting started with the basic commands on Git-Ba
 description:
 
 cover:
-  image: "/img/getting-started-with-git/Git.webp"
-  alt: "Getting started with Git"
+  image: "/img/getting-started-with-git/git.gif"
+  alt: "The Git Symbol"
   caption: "Get good at Git"
   relative: false
 showtoc: true
