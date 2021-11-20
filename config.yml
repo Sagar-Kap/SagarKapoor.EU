@@ -27,7 +27,7 @@ params:
     keywords: [Blog, Portfolio, PaperMod, Programming, Git, Python, Hugo]
     # author: Sagar Kapoor
     # author: ["Me", "You"] # multiple authors
-    images: ["sagarkapoor.jpg"]
+    images: ["thumb.png"]
     DateFormat: "January 2, 2006"
     defaultTheme:   dark # auto , light
     disableThemeToggle: false
