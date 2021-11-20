@@ -184,7 +184,7 @@ The function `multi-page()` will run the scraper on the whole site, as you can s
 
 You can play around with the code, see what you don't understand and if you have a problem, drop me a comment or a message on one of my social media accounts. Doing while learning has its advantages (as well as disadvantages)! I hope this little project provides you some incentive to get started with Python straight away and into a journey of deep learning and frustrations and motivations... Ok, you get the drift. 
 
-![Site's HTML inspection](/img/how-to-scrape/good-luck.jpg)
+![Site's HTML inspection](/img/how-to-scrape/good-luck.png)
 
 ### The whole code
 
