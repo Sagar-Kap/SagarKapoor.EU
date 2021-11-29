@@ -16,7 +16,7 @@ draft: false
 
 ### Can you boot from a USB drive?
 
-If you have been a Raspberry Pi enthusiast then you must have faced this dilemma, whether to keep using the SD card or to use a USB drive to boot the OS of your choice from. There is a workaround for the older versions. But with Raspberry Pi 4 you can install the OS on your USB, plug it into your Pi and you are good to go!
+If you have been a Raspberry Pi enthusiast then you must have faced this dilemma, whether to keep using the SD card or to use a USB drive to boot the OS of your choice. There is a workaround for the older versions. But with Raspberry Pi 4 you can install the OS on your USB, plug it into your Pi and you are good to go!
 
 For those of you that are not long term enthusiasts and have just got hold of a brand new Raspberry Pi 4, here is a short and sweet guide on setting up your Raspberry Pi and getting it up and  running into the Pi-verse.
 
@@ -69,7 +69,7 @@ You will get a list of the devices connected to your wifi on your terminal. The 
 
 ### SSH-ing into your Pi
 
-Again you can use various softwares that allow you to SSH into a device remotely, But like Linux, you can now do it from Windows Terminal as well. If you have not yet heard of or used Windows Terminal, here is a good <a href= "https://bit.ly/3paAg5t" style = "color : teal;" target = "_blank"><strong>reason</strong></a> to set it up.
+Again you can use various softwares that allow you to SSH into a device remotely, but like Linux, you can now do it from Windows Terminal as well. If you have not yet heard of or used Windows Terminal, here is a good <a href= "https://bit.ly/3paAg5t" style = "color : teal;" target = "_blank"><strong>reason</strong></a> to set it up.
 
 In the Windows Terminal simply type `ssh ubuntu@<The IP address of the Pi>` and you will receive a message something like:
 
@@ -77,7 +77,7 @@ In the Windows Terminal simply type `ssh ubuntu@<The IP address of the Pi>` and 
 
 Type `yes`. 
 
-The connection will be closed and you will have to SSH into the Pi again. The default password is `ubuntu`. You will be required to change it immediately and the connection will be closed again. After this step you can safely SSH into your Pi and now it completely yours to fiddle with! 
+The connection will be closed and you will have to SSH into the Pi again. The default password is `ubuntu`. You will be required to change it immediately and the connection will be closed again. After this step you can safely SSH into your Pi and now it is completely yours to fiddle with! 
 
 PS: Here is my Raspberry Pi 4. I am using an armour case which keeps the CPU temperature around 32°C-36°C. You can even keep it on a laptop cooler to achieve some cooling. 
 
