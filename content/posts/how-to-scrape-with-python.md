@@ -25,7 +25,7 @@ This guide will help you in getting started with scraping in no time. Reasons wh
 
 ### Things that you will need
 
-1. Python installed on your machine (*By "machine", coders mean the device that you are working on; technically Python can be made to work on mobiles too but stick to a computer or laptop for scraping*) <a href= https://www.python.org/downloads/  style = "color : Teal;" target = "_blank"><strong>Follow this link for downloading Python</strong></a>.
+1. Python installed on your machine (*By "machine", coders mean the device that you are working on; technically Python can be made to work on mobiles too but stick to a computer or laptop for scraping*) <a href= "https://www.python.org/downloads/"  style = "color : Teal;" target = "_blank"><strong>Follow this link for downloading Python</strong></a>.
 
 2. Install additional modules for Python. Modules are extra add-on libraries to your Python program that save you the trouble of writing your code. *That is the simplest definition of modules.*  You will need **bs4,** **requests** and the **CSV** modules for this scraping task. Follow these steps to get them:  
 
