@@ -13,4 +13,5 @@ I have been quite fortunate in this regard to come across many people in the pro
 
 1. **LinkedIn:** <a href = https://www.linkedin.com/in/sagarkapr/ style = "color : SlateBlue;" target = "_blank"><strong>linkedin.com/in/sagarkapr</strong></a>
 2. **GitHub:** <a href = https://github.com/sagar-kap/  style = "color : SlateBlue;" target = "_blank"><strong>github.com/Sagar-Kap</strong></a>
-3. **Websites:** <a href = https://www.indianeconomist.in/  style = "color : SlateBlue;" target = "_blank"><strong>The Indian Economist</strong></a> **,**  <a href = https://theindianlaw.in/  style = "color : SlateBlue;" target = "_blank"><strong>The Indian Law</strong></a>
+3. **Twitter:** <a href = https://twitter.com/SagarKapr  style = "color : SlateBlue;" target = "_blank"><strong>twitter.com/SagarKapr</strong></a>
+4. **Websites:** <a href = https://www.indianeconomist.in/  style = "color : SlateBlue;" target = "_blank"><strong>The Indian Economist</strong></a> **,**  <a href = https://theindianlaw.in/  style = "color : SlateBlue;" target = "_blank"><strong>The Indian Law</strong></a>
