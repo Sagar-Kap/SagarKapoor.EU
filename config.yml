@@ -9,7 +9,7 @@ markup:
       unsafe: true
 
 permalinks:
-  posts: '/:slug'
+  posts: "/:slug"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,118 +17,114 @@ buildFuture: false
 buildExpired: false
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Sagar Kapoor
-    description: "A turncoat marketer who is also a self taught programmer."
-    keywords: [Blog, Portfolio, PaperMod, Programming, Git, Python, Hugo]
-    # author: Sagar Kapoor
-    # author: ["Me", "You"] # multiple authors
-    images: ["thumb.png"]
-    DateFormat: "January 2, 2006"
-    defaultTheme:   dark # auto , light
-    disableThemeToggle: false
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Sagar Kapoor
+  description: "A turncoat marketer who is also a self taught programmer."
+  keywords: [Blog, Portfolio, PaperMod, Programming, Git, Python, Hugo]
+  # author: Sagar Kapoor
+  # author: ["Me", "You"] # multiple authors
+  images: ["thumb.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # auto , light
+  disableThemeToggle: false
 
-    ShowReadingTime: false
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: false
-    hidemeta: false
-    hideSummary: false
-    showtoc: true
-    tocopen: false
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
 
-    permalinks:
-        posts: '/:slug'
+  permalinks:
+    posts: "/:slug"
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: favicon/favicon.ico
-        favicon16x16: favicon/favicon-16x16.png
-        favicon32x32: favicon/favicon-32x32.png
-        apple_touch_icon: favicon/apple-touch-icon.png
-        android-chrome: favicon/android-chrome-512x512.png
-    label:
-        text: "Sagar Kapoor"
-        icon: /favicon/android-chrome-512x512.png
-        iconHeight: 35
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: favicon/favicon.ico
+    favicon16x16: favicon/favicon-16x16.png
+    favicon32x32: favicon/favicon-32x32.png
+    apple_touch_icon: favicon/apple-touch-icon.png
+    android-chrome: favicon/android-chrome-512x512.png
+  label:
+    text: "Sagar Kapoor"
+    icon: /favicon/android-chrome-512x512.png
+    iconHeight: 35
 
-    # profile-mode
-    profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
-    # home-info mode
-    homeInfoParams:
-        Title: "Hello there 📢"
-        Content: |
-          - Welcome to my website! This is the starting place of my journey towards fusing together digital marketing and programming.  
-          -
-          - This site is a running script of my experiences in my Masters in Digital Marketing and self taught-programming lessons. I have tried to compensate with my persistance for what I lack in finesse.
-          -
-          - I started out with [Python](https://www.python.org/) to scrape prices for an e-commerce platform that I was working for. And ever since, I have been on a downward spiral of coding. So go ahead, enjoy my experices that I have jotted down for you.
-    socialIcons:
-        - name: linkedin
-          url: "https://www.linkedin.com/in/sagarkapr/"
-        - name: github
-          url: "https://github.com/Sagar-Kap"
-        - name: twitter
-          url: "https://twitter.com/SagarKapr"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/14096244/sagar-kapoor"
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello there 📢"
+    Content: |
+      - Welcome to my website! This is the starting place of my journey towards fusing together digital marketing and programming.  
+      -
+      - This site is a running script of my experiences in my Masters in Digital Marketing and self taught-programming lessons. I have tried to compensate with my persistance for what I lack in finesse.
+      -
+      - I started out with [Python](https://www.python.org/) to scrape prices for an e-commerce platform that I was working for. And ever since, I have been on a downward spiral of coding. So go ahead, enjoy my experices that I have jotted down for you.
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sagarkapr/"
+    - name: github
+      url: "https://github.com/Sagar-Kap"
+    - name: twitter
+      url: "https://twitter.com/SagarKapr"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/14096244/sagar-kapoor"
 
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: false # hide on single page
+  #editPost:
+  #URL: "https://github.com/<path_to_repo>/content"
+  #Text: "Suggest Changes" # edit text
+  #appendFilePath: true # to append file path to Edit link
 
-    #editPost:
-        #URL: "https://github.com/<path_to_repo>/content"
-        #Text: "Suggest Changes" # edit text
-        #appendFilePath: true # to append file path to Edit link
-
-    # for search
-    # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 menu:
-    main:
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 10
-        - identifier: blog
-          name: Blog
-          url: /blog/
-          weight: 20
-        - identifier: Digital Marketing
-          name: Digital Marketing
-          url: https://www.indianeconomist.in/
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
